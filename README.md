@@ -4,4 +4,4 @@ This is a responsive web development for a bakery Pies website (nice! 🤤), whi
 
 Thank you for visiting! 🐥
 
-[site]: https://bakery-pies-web.vercel.app/index.html
+[site]: https://bakery-pies-web.vercel.app
